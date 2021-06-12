@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wisdom</string>
+    <string name="senekabio">Lucius Annaeus Seneca (Minor) (ur. ok. 4 p.n.e. w Kordobie, zm. 65 r. n.e.), Lucjusz Anneusz Seneka (Młodszy) – retor, pisarz, poeta, filozof rzymski, zwany Filozofem. Stoik, piewca heroicznej etyki.
+    Jego filozofia wywarła znaczny wpływ na chrześcijaństwo.</string>
+    <string name="seneka1">Słabnie męstwo bez przeciwnika. Swoją wielkość i siłę wtedy objawia, kiedy wytrwaniem okazuje, do czego jest zdolne</string>
+    <string name="seneka2">Nieprzerwane powodzenie nie wytrzyma żadnego ciosu. Lecz kto nieustannie zmaga się ze swoją niedolą, ten cierpieniom zawdzięcza hart, i nie ustąpi przed żadnym złem, a nawet jeśli upadnie, będzie walczył jeszcze na klęczkach</string>
+    <string name="seneka3">Ten przez śmierć staje się bogom podobny, czyj zgon nawet Ci podziwiają, którzy się śmierci boją</string>
+    <string name="seneka4">Uważam Cię za nieszczęśliwego, bo nigdy nie byłeś nieszczęśliwy. Przeszedłeś przez życie bez walki. Nikt się nie dowie, ani nawet Ty sam, co potrafisz.
+    Aby poznać samego siebie trzeba się wystawiać na próby. Tylko tak może przekonać się każdy, na co go stać</string>
+    <string name="seneka5">Prawdziwe męstwo chciwe jest niebezpieczeństwa, i myśli o tym, dokąd zmierza, a nie co przecierpi, bo także cierpienie będzie częścią sławy</string>
+    <string name="seneka6">Zaklinam was, nie lękajcie się ciężkich doświadczeń, którymi bogowie nieśmiertelni dodają niejako bodźca ludzkim duszą. Nieszczęście jest okazją do wykazania męstwa.
+    Srogi los bardziej daje się we znaki ludziom niezahartowanym, a jarzmo uciążliwe jest dla miękkiego karku</string>
+    <string name="seneka7">Próbą złota jest ogień, nieszczęście - dzielnych ludzi</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Menu">menu</string>
+</resources>
